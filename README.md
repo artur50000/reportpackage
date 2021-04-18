@@ -1,1 +1,1 @@
-Monaco 2018 Racing project 
+package for building report from text files
